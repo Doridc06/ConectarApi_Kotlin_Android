@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="character_image">Descripción de la imagen del personaje</string>
+</resources>
+
